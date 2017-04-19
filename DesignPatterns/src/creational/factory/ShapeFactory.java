@@ -1,5 +1,10 @@
 package creational.factory;
 
+import model.shapes.Circle;
+import model.shapes.Rectangle;
+import model.shapes.Shape;
+import model.shapes.Square;
+
 public class ShapeFactory {
 
 	// use getShape method to get object of type shape

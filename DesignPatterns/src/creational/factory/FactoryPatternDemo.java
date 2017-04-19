@@ -1,5 +1,7 @@
 package creational.factory;
 
+import model.shapes.Shape;
+
 public class FactoryPatternDemo {
 
 	public static void main(String[] args) {

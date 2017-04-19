@@ -1,4 +1,9 @@
-package facade;
+package structural.facade;
+
+import model.shapes.Circle;
+import model.shapes.Rectangle;
+import model.shapes.Shape;
+import model.shapes.Square;
 
 public class ShapeMaker {
 	private Shape circle;

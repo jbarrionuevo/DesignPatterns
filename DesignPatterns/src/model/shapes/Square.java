@@ -1,7 +1,7 @@
-package facade;
+package model.shapes;
 
 public class Square implements Shape {
-	@Override
+	// @Override
 	public void draw() {
 		System.out.println("Square::draw()");
 	}
